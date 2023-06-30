@@ -1,10 +1,13 @@
-McDonald's Case Study
+McDonald's Case Study:
+
 This repository contains a case study on McDonald's, providing an analysis of the company's business model, marketing strategies, and key success factors.
 
-Overview
+Overview:
+
 The purpose of this case study is to examine McDonald's as a global fast food chain and understand its growth, market presence, and competitive advantages. It explores various aspects of McDonald's operations, including its history, brand image, menu offerings, customer experience, and market positioning.
 
-Contents
+Contents:
+
 The case study includes the following sections:
 
 Introduction: Provides a brief overview of McDonald's and its significance in the fast food industry.
@@ -21,5 +24,6 @@ Success Factors: Identifies and analyzes the key success factors that have contr
 
 Challenges and Future Outlook: Discusses the challenges faced by McDonald's, including changing consumer preferences, health concerns, and sustainability issues. Explores potential future strategies and opportunities for the company.
 
-Usage
+Usage:
+
 This case study is intended for educational and informational purposes. It can be used by students, researchers, or anyone interested in understanding the business strategies and marketing tactics employed by McDonald's.
